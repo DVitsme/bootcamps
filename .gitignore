@@ -1,4 +1,4 @@
 config/config.env
 package-lock.json
 node_modules
-.gitingnore
+.gitignore
